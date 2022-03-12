@@ -1,0 +1,14 @@
+namespace: configmaster
+name: server_tools
+version: 0.0.1
+description: ConfigMaster Server Tools is an Ansible collection of utilities built to aid the configuration of Linux servers.
+readme: README.md
+authors:
+  - 70m4c <seventymfourc@yandex.com>
+license: MIT
+tags:
+  - linux
+  - utilities
+repository: "https://github.com/configmaster/ansible-collection-server_tools"
+issues: "https://github.com/configmaster/ansible-collection-server_tools/issues"
+
